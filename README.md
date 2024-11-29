@@ -1,1 +1,1 @@
-# llm-udemy
+# LLM Engineering by Udemy (step by step)
